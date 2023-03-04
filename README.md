@@ -1,1 +1,1 @@
-# TradingBot-PETR4
+# TradingBot-PETR4 Com Relatório via Telegram
